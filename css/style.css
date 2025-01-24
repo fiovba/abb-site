@@ -306,7 +306,8 @@ select {
     padding: 15px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
-
+.fa-caret-down{ font-size:17px; color:red;}
+.fa-caret-up{font-size:17px; color:green;}
 .cart-img1 {
     display: flex;
     justify-content: end;
