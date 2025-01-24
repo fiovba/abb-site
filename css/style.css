@@ -410,14 +410,14 @@ form input {
 .ranges-div {
     display: flex;
     flex-direction: column;
-    font-family: 'SF Pro Display Light';
+    font-family: 'SF Pro Display Light', sans-serif;
     color: #333
 }
 
 .coll-content {
     display: flex;
     gap: 15px;
-    font-family: 'SF Pro Display Light';
+    font-family: 'SF Pro Display Light', sans-serif;
     color: #333;
     border-bottom: 1px solid #c8c8c8;
     padding:0 15px;
@@ -657,7 +657,7 @@ input[type="range"]::-webkit-slider-thumb {
 .req-text{
     color:white !important;
     padding:10px;
-    font-family: 'SF Pro Display Light' !important;
+    font-family: 'SF Pro Display Light', sans-serif !important;
     i{
         letter-spacing: 10px;
         font-size: 18px;
@@ -689,7 +689,7 @@ justify-content: space-between;
 
 .footer-navbar a {
     color:#666;
-    font-family: 'SF Pro Display Medium';
+    font-family: 'SF Pro Display Medium', sans-serif;
     text-decoration: none;
     padding: 8px 5px 8px 0;
     transition: background-color 0.3s;
