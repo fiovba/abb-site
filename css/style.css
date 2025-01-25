@@ -1220,7 +1220,7 @@ justify-content: space-between;
             padding-bottom: 30px;
         }
     }
-    
+    .header1 { position: sticky; top: 0; z-index: 99999999; } header{ position: sticky; top: 0; z-index:99999998; background-color: white;}
 }
   
 @media only screen and (min-width: 1200px) {
